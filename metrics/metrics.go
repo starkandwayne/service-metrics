@@ -9,9 +9,11 @@
 package metrics
 
 type Metric struct {
-	Key   string  `json:"key"`
-	Value float64 `json:"value"`
-	Unit  string  `json:"unit"`
+	Key           string  `json:"name"`
+	Value         float64 `json:"value"`
+	Unit          string  `json:"unit"`
+	AppGUID       string  `json:"app_guid"`
+	InstanceIndex uint32  `json:"instance_index"`
 }
 
 type Metrics []Metric
