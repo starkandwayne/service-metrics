@@ -1,0 +1,15 @@
+code.cloudfoundry.org/lager v0.0.0-20161021174446-b273f19621a2 h1:sdPULWlXm11NfWc6Xd/o/gqcQpbxlCbWV2sskNJgjkA=
+code.cloudfoundry.org/lager v0.0.0-20161021174446-b273f19621a2/go.mod h1:O2sS7gKP3HM2iemG+EnwvyNQK7pTSC6Foi4QiMp9sSk=
+github.com/cloudfoundry/dropsonde v0.0.0-20150618225342-3b9165fbab81 h1:uEo1/0bdFUfoqrCn8uSnM9ziat9UxrJIQcBRtXtYkiI=
+github.com/cloudfoundry/dropsonde v0.0.0-20150618225342-3b9165fbab81/go.mod h1:6zwvrWK5TpxBVYi1cdkE5WDsIO8E0n7qAJg3wR9B67c=
+github.com/cloudfoundry/gosteno v0.0.0-20140228013444-969c2c565f5f h1:GdLxdtlLhLunPC/K2xOLM3qKCrdLEYOCcXPW0O+Ff8A=
+github.com/cloudfoundry/gosteno v0.0.0-20140228013444-969c2c565f5f/go.mod h1:3YBPUR85RIrvaUTdA1dL38YSp6s3OHu1xrWLkGt2Mog=
+github.com/cloudfoundry/sonde-go v0.0.0-20150619143652-e9b4698e8505 h1:+noaBK6CLBr/971UF0lk4Tjnf6H2DtcAbm9s69GnCG4=
+github.com/cloudfoundry/sonde-go v0.0.0-20150619143652-e9b4698e8505/go.mod h1:GS0pCHd7onIsewbw8Ue9qa9pZPv2V88cUZDttK6KzgI=
+github.com/gogo/protobuf v0.0.0-20150715155703-056e49a669ad h1:sSrDKb+Vii0ZFe8nIIQn2p8gXJJljGOgo9FhVdYRi7A=
+github.com/gogo/protobuf v0.0.0-20150715155703-056e49a669ad/go.mod h1:r8qH/GZQm5c6nD/R0oafs1akxWv10x8SbQlK7atdtwQ=
+github.com/nu7hatch/gouuid v0.0.0-20131221200532-179d4d0c4d8d h1:VhgPp6v9qf9Agr/56bj7Y/xa04UccTW04VP0Qed4vnQ=
+github.com/nu7hatch/gouuid v0.0.0-20131221200532-179d4d0c4d8d/go.mod h1:YUTz3bUH2ZwIWBy3CJBeOBEugqcmXREj14T+iG/4k4U=
+github.com/onsi/ginkgo v1.1.1-0.20141125233533-7d3d52b3a3a7/go.mod h1:lLunBs/Ym6LB5Z9jYTR76FiuTmxDTDusOGeTQH+WWjE=
+github.com/onsi/gomega v0.0.0-20150530211311-d6c945f9fdbf/go.mod h1:C1qb7wdrVGGVU+Z6iS04AVkA3Q65CEZX59MT0QO5uiA=
+github.com/st3v/glager v0.3.0/go.mod h1:NaxNJeSMBVuccRrZ5imjgq8w2rnEacX8iyCprCrWUnA=
